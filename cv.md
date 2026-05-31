@@ -1,8 +1,7 @@
 # Ștefan Saru
-**Software Safety & AI Enthusiast — Aviation · Railway · Automotive**
+**Software Safety & AI Enthusiast | Safety Assurance / RAMS & Verification Lead — Aviation · Railway · Automotive | AI-assisted engineering (Claude) | ex-Thales, Intel**
 
-Bucharest, Romania (open to EU-remote) · domnul.saru@gmail.com · +40 720 857 773
-· linkedin.com/in/stefansaru
+Bucharest, Romania (open to EU-remote) · [domnul.saru@gmail.com](mailto:domnul.saru@gmail.com) · +40 720 857 773 · [linkedin.com/in/stefansaru](https://www.linkedin.com/in/stefansaru)
 
 ---
 
@@ -14,8 +13,8 @@ verification**. Rare **multi-domain safety fluency** — has shipped under
 (ISO 26262/ASIL)** regimes. Trusted interface to **external auditors, OEMs and
 customers**; has managed RAMS and verification across **multiple concurrent
 50+-person, multi-site programmes**. Holds a **US patent** and is completing an
-**MBA-style master (GPA 9.80)** to formalise the move into engineering leadership.
-An **intensive user of Claude and AI-assisted / agentic development workflows**,
+**MBA (GPA 9.80)** to formalise the move into engineering leadership. An
+**intensive user of Claude and AI-assisted / agentic development workflows**,
 actively applying LLM tooling to accelerate safety-critical engineering without
 compromising rigour.
 
@@ -39,64 +38,72 @@ compromising rigour.
 
 ## Experience
 
-### Rohde & Schwarz Topex — Software Safety Engineer & Automated Test Engineer
-*Oct 2021 – Present · Bucharest · Air Traffic Control*
+### Rohde & Schwarz Topex — Software Safety Engineer | Air Traffic Control
+*Oct 2021 – Present · Bucharest, Romania*
 - Own software-safety assurance for ATC systems; continuously improve safe R&D
   processes against **ED-153, ESARR 4, ICAO 9859, EU 2017/373, SWAL 3–4**.
-- Serve as **primary liaison with external auditors**; lead system-architecture
-  analysis and safe/non-safe function classification.
-- **Designed and built a novel automated-test framework from scratch** (Python,
-  BDD, Squish, Selenium, Qt) — robust, scalable, reusable.
+- Primary liaison with external auditors; lead system-architecture analysis and
+  safe/non-safe function partitioning.
+- Built a **novel automated-test framework from the ground up** (Python, BDD,
+  Squish, Selenium, Qt) — robust, scalable, reusable.
 
-### Thales — Safety Assurance / RAMS Manager → Verification Manager
-*Feb 2018 – Oct 2021 · Bucharest · Railway Interlocking*
-- **RAMS Manager across multiple large-scale programmes simultaneously** (new
-  signalling system, HMI system, novel interlocking solution — up to 50+
-  personnel, multi-site), under **CENELEC EN 50126/50128/50129/50159**.
-- Led customer interactions on all RAMS matters; coordinated cross-site meetings.
+### Thales — Safety & Verification Manager | Railway Interlocking
+*Feb 2018 – Oct 2021 · Bucharest, Romania*
+- **RAMS Manager across multiple large-scale programmes simultaneously** (a new
+  signalling system, an HMI system, and a novel interlocking solution — 50+
+  personnel, multi-site each), under **CENELEC EN 50126/50128/50129/50159**.
+- Led customer interactions on all RAMS matters.
 - As **Verification Manager**, led verification for a major signalling programme
-  with a **50+-person multi-site team**; built Python automation for Jira
-  user-stories and Word verification reports.
+  with a **50+-person multi-site team**; automated Jira user-story and
+  verification-report generation in Python.
 
-### Tremend Software Consulting (client: Intel) — Software Safety Architect
-*Nov 2017 – Jan 2018 · Autonomous Driving*
+### Tremend Software Consulting (client: Intel) — Software Safety Architect | Autonomous Driving
+*Nov 2017 – Jan 2018 · Bucharest, Romania*
 - Architected and modelled (IBM Rhapsody) a **safety-oriented C++14 subset** for
   Intel's autonomous-driving software under **ISO 26262**.
 
-### Luxoft (client: Continental) — Project Engineer for Safety / Senior SW Engineer
-*Feb 2016 – Oct 2017 · Automotive Electronics / ECUs*
+### Luxoft (client: Continental) — Senior Software Engineer & PES | Automotive
+*Feb 2016 – Oct 2017 · Bucharest, Romania*
 - **Project Engineer for Safety (PES)** on ECU development (**ISO 26262, ASIL A**);
-  aligned safety practices across OEM and Tier teams in **Germany, Austria, the
-  Netherlands and Romania**.
-- Built Python tooling for component testing; enhanced a **Yocto/Bitbake** build
-  system and **QEMU** test imaging (C++, Qt, C#).
+  coordinated safety alignment across OEM and Tier teams in **DE / AT / NL / RO**.
+- Built Python tooling for component testing.
+- Enhanced a **Yocto/Bitbake** build system and **QEMU** test imaging (C++, Qt, C#).
 
-### Intel — Software Application Engineer (R&D Networking)
+### Intel — Software Application Engineer | Docker Containers (R&D Networking)
 *Mar 2015 – Jan 2016 · Shannon, Ireland*
-- In a 3-person R&D team, demonstrated **Docker + Intel QuickAssist / Cache
-  Allocation** performance gains.
-- **Lead inventor, US Patent 10,876,845 B2**; authored a Docker-on-Intel
-  publication. (Fedora, Docker, Go, Python, QEMU, C/C++, C#)
+- 3-person R&D team showcasing **Docker + Intel QuickAssist / Cache Allocation**
+  performance gains.
+- **Lead inventor of US Patent 10,876,845 B2.**
+- Authored a Docker-on-Intel publication. *(Fedora, Docker, Go, Python, QEMU, C/C++, C#)*
 
-### Computaris — Software Engineer (Telecom Charging & Billing)
-*Sep 2013 – Mar 2015 · Shannon, Ireland & Bucharest · clients: Tecnotree, Swisscom*
-- Carrier-grade billing on **Solaris / C++ / CORBA**; prepaid auto-renewal and
-  balance-calculation optimisation; new **T-SQL** database-interface library.
+### Computaris — Software Engineer | Telecom Charging & Billing
+*Sep 2013 – Mar 2015 · Shannon, Ireland & Bucharest (clients: Tecnotree, Swisscom)*
+- Carrier-grade billing on **Solaris / C++ / CORBA**.
+- Prepaid auto-renewal & balance-calculation optimisation.
+- New **T-SQL** database-interface library.
 
-### Luxoft — Software Engineer (Networking)
-*Mar 2011 – Sep 2013 · Bucharest · client: Avaya*
-- Embedded **C / VxWorks** switching software: L2/L3 protocols, SNMP/HTTP,
-  transceivers, auto-negotiation, Jumbo frames.
+### Luxoft (client: Avaya) — Software Engineer | Networking
+*Mar 2011 – Sep 2013 · Bucharest, Romania*
+- Embedded **C / VxWorks** switching software.
+- L2/L3 protocols, SNMP/HTTP.
+- Transceivers, auto-negotiation, Jumbo frames.
 
-*Earlier: Game-development internships — NewRoSoft (2008–2009), C++/real-time graphics.*
+### NewRoSoft — Game Developer (internships)
+*Jun 2008 – Jul 2009 · Bucharest, Romania*
+- **MMORPG (PC):** integrated SpeedTree foliage; optimised level-of-detail for a
+  visual-fidelity vs. performance balance.
+- **Reader Rabbit (Nintendo DS)** scenarios; architectural proof-of-concept for a
+  Touring Car Racing game (Windows).
 
 ---
 
 ## Education
-- **Master, Engineering & Management of Business Systems (MBA-style)** — University
+- **Master of Business Administration (MBA), Computer Engineering** — University
   POLITEHNICA of Bucharest · *2024–2026 (in progress), GPA 9.80/10.*
 - **Engineer's degree (BSc), Computer Science** — University POLITEHNICA of
   Bucharest, Faculty of Automatic Control & Computers · *2007–2013 (240 ECTS).*
+- **High School Diploma, Mathematics-Informatics** — Colegiul Național Iulia
+  Hasdeu, Bucharest · *2003–2007.*
 
 ## Certifications
 - **ISTQB Certified Tester, Foundation Level (CTFL)** — 16-CTFL-1383-SEETB (2016)
@@ -106,8 +113,9 @@ compromising rigour.
 - *Additional:* GMDSS Long Range Certificate (maritime radio)
 
 ## Patent & publication
-- **US Patent 10,876,845 B2** — "Personalized Smart Navigation for Motor Vehicles"
-  (Intel Corporation, granted 2020) — lead inventor.
+- **[US Patent 10,876,845 B2](https://patents.google.com/patent/US10876845B2/en)** —
+  "Personalized Smart Navigation for Motor Vehicles" (Intel Corporation, granted
+  2020) — lead inventor.
 - **Publication** — "Improving Performance of Docker Containers on Intel
   Architecture" (Intel, 2015–2016).
 
