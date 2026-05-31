@@ -63,7 +63,7 @@ compromising rigour.
   Intel's autonomous-driving software under **ISO 26262**.
 
 ### Luxoft (client: Continental) — Senior Software Engineer & PES | Automotive
-*Sep 2017 – Oct 2017 · Bucharest, Romania*
+*Feb 2016 – Oct 2017 · Bucharest, Romania*
 - **Project Engineer for Safety (PES)** on ECU development (**ISO 26262, ASIL A**);
   coordinated safety alignment across OEM and Tier teams in **DE / AT / NL / RO**.
 - Built Python tooling for component testing.
@@ -77,7 +77,7 @@ compromising rigour.
 - Authored a Docker-on-Intel publication. *(Fedora, Docker, Go, Python, QEMU, C/C++, C#)*
 
 ### Computaris — Software Engineer | Telecom Charging & Billing
-*Jan 2015 – Mar 2015 · Shannon, Ireland & Bucharest (clients: Tecnotree, Swisscom)*
+*Sep 2013 – Mar 2015 · Shannon, Ireland & Bucharest (clients: Tecnotree, Swisscom)*
 - Carrier-grade billing on **Solaris / C++ / CORBA**.
 - Prepaid auto-renewal & balance-calculation optimisation.
 - New **T-SQL** database-interface library.
