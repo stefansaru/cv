@@ -48,7 +48,7 @@ compromising rigour.
   Squish, Selenium, Qt) — robust, scalable, reusable.
 
 ### Thales — Safety & Verification Manager | Railway Interlocking
-*Nov 2019 – Oct 2021 · Bucharest, Romania*
+*Feb 2018 – Oct 2021 · Bucharest, Romania*
 - **RAMS Manager across multiple large-scale programmes simultaneously** (a new
   signalling system, an HMI system, and a novel interlocking solution — 50+
   personnel, multi-site each), under **CENELEC EN 50126/50128/50129/50159**.
