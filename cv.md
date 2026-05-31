@@ -48,7 +48,7 @@ compromising rigour.
   Squish, Selenium, Qt) — robust, scalable, reusable.
 
 ### Thales — Safety & Verification Manager | Railway Interlocking
-*Feb 2018 – Oct 2021 · Bucharest, Romania*
+*Nov 2019 – Oct 2021 · Bucharest, Romania*
 - **RAMS Manager across multiple large-scale programmes simultaneously** (a new
   signalling system, an HMI system, and a novel interlocking solution — 50+
   personnel, multi-site each), under **CENELEC EN 50126/50128/50129/50159**.
@@ -63,7 +63,7 @@ compromising rigour.
   Intel's autonomous-driving software under **ISO 26262**.
 
 ### Luxoft (client: Continental) — Senior Software Engineer & PES | Automotive
-*Feb 2016 – Oct 2017 · Bucharest, Romania*
+*Sep 2017 – Oct 2017 · Bucharest, Romania*
 - **Project Engineer for Safety (PES)** on ECU development (**ISO 26262, ASIL A**);
   coordinated safety alignment across OEM and Tier teams in **DE / AT / NL / RO**.
 - Built Python tooling for component testing.
@@ -77,7 +77,7 @@ compromising rigour.
 - Authored a Docker-on-Intel publication. *(Fedora, Docker, Go, Python, QEMU, C/C++, C#)*
 
 ### Computaris — Software Engineer | Telecom Charging & Billing
-*Sep 2013 – Mar 2015 · Shannon, Ireland & Bucharest (clients: Tecnotree, Swisscom)*
+*Jan 2015 – Mar 2015 · Shannon, Ireland & Bucharest (clients: Tecnotree, Swisscom)*
 - Carrier-grade billing on **Solaris / C++ / CORBA**.
 - Prepaid auto-renewal & balance-calculation optimisation.
 - New **T-SQL** database-interface library.
