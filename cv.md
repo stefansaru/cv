@@ -4,9 +4,6 @@
 Bucharest, Romania (open to EU-remote) · domnul.saru@gmail.com · +40 720 857 773
 · linkedin.com/in/stefansaru
 
-> International / EU-remote conventions: no photo, no date of birth, 2 pages,
-> achievement-led. Derived from the [wiki](../wiki/index.md) — full detail lives there.
-
 ---
 
 ## Profile
