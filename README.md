@@ -1,5 +1,5 @@
 # Ștefan Saru
-**Software Safety & AI Enthusiast | Safety Assurance / RAMS & Verification Lead — Aviation · Railway · Automotive | AI-assisted engineering (Claude) | ex-Thales, Intel**
+**Software Safety Assurance / RAMS & Verification Lead — Aviation · Railway · Automotive | AI-assisted engineering (Claude) | ex-Thales, Intel**
 
 Bucharest, Romania (open to EU-remote) · [domnul.saru@gmail.com](mailto:domnul.saru@gmail.com) · +40 720 857 773 · [linkedin.com/in/stefansaru](https://www.linkedin.com/in/stefansaru)
 
